@@ -6,7 +6,7 @@
 <a href="https://www.buymeacoffee.com/" target="blank"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+[![X](https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/x.svg)](https://x.com/BERL111N)
 
 ## 👨‍💻 About Me  
 - 💻 I'm **Ali Emam**, a **Bug Bounty Hunter**, and **Penetration Tester**.  
@@ -16,20 +16,6 @@
 - 🕵️ Passionate about finding **vulnerabilities** and understanding how systems break.  
 - 💬 Talk to me about **cybersecurity**, **Python scripting**, or **CTFs**.  
 - ⚡ Fun fact: I can spend hours automating things that take 5 minutes to do manually 😅  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55" alt="JavaScript" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55" height="55" alt="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/gnupg/gnupg-icon.svg" width="55" height="55" alt="GPG" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" height="50" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/burp_suite/burp_suite-icon.svg" width="55" height="55" alt="Burp Suite" />
-</p>
 
 ---
 
@@ -45,6 +31,3 @@
 > “The quieter you become, the more you are able to hear.” — Ram Dass  
 
 ---
-
-## 😂 Random Dev Humor
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="11000" />
